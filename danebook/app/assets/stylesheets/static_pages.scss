@@ -45,3 +45,28 @@
 	margin-left: 65%
 }
 
+.friend {
+  border: 1px solid black;
+  margin: 2%;
+}
+
+.friend-info {
+  display: inline-block;
+}
+
+.unfriend-right {
+  position: absolute;
+  right: 10%;
+  top: 12%;
+}
+
+.unfriend-left {
+  position: absolute;
+  right: 10%;
+  top: 12%;
+}
+
+.second-friend-row {
+  width: 30%;
+  padding-right: 26%;
+}
