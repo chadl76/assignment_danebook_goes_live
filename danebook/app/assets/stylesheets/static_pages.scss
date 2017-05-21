@@ -1,0 +1,47 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+.navbar {
+	background-color: #6699ff;
+}
+.navbar-title {
+	float: right;
+}
+
+.search-container {
+	margin-top: 10px;
+}
+
+.img-logo {
+	margin-top: 20px;
+}
+
+.navbar {
+  background-color: #2B78E4;
+  color: white;
+  line-height: 50px;
+  background-image: none;
+}
+
+#profile-photo {
+   position: absolute;
+   bottom: 15%;
+   left: 4%;
+   border: 1px solid black; 
+}
+
+.btm-about {
+	border: 1px solid black;
+}
+
+.about-title {
+	width: 85%;
+}
+
+.about-title h3 {
+	margin-left: 65%
+}
+
